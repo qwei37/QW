@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T20:14:09.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="uIs_F8Zgyd7CAfpUHiv8" version="15.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T20:18:12.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="E_QyEONv163yEkzYiqvp" version="15.3.4" type="github">
   <diagram id="4tuKTm64LaXgP7IwTOWB" name="Page-1">
     <mxGraphModel dx="1160" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -337,9 +337,9 @@
           <mxGeometry x="242.5" y="325" width="67.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mfzrroewSdykWeL1LME4-125" value="Part number" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="236.25" y="430" width="67.5" height="30" as="geometry" />
+          <mxGeometry x="210" y="415" width="67.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mfzrroewSdykWeL1LME4-126" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" target="mfzrroewSdykWeL1LME4-125" parent="1">
+        <mxCell id="mfzrroewSdykWeL1LME4-126" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" target="mfzrroewSdykWeL1LME4-125" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="400" as="sourcePoint" />
           </mxGeometry>
@@ -349,6 +349,12 @@
         </mxCell>
         <mxCell id="mfzrroewSdykWeL1LME4-127" value="Part used" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="225" y="375" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfzrroewSdykWeL1LME4-130" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="mfzrroewSdykWeL1LME4-129" target="mfzrroewSdykWeL1LME4-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mfzrroewSdykWeL1LME4-129" value="Price" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="280" y="455" width="67.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
