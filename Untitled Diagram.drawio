@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T20:18:12.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="E_QyEONv163yEkzYiqvp" version="15.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T20:18:25.767Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="HHdG6G0YdoRp9U0hZcSt" version="15.3.4" type="github">
   <diagram id="4tuKTm64LaXgP7IwTOWB" name="Page-1">
     <mxGraphModel dx="1160" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -263,7 +263,7 @@
           <mxGeometry x="492.5" y="480" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mfzrroewSdykWeL1LME4-106" value="Sold Price" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="55" y="445" width="77.5" height="40" as="geometry" />
+          <mxGeometry x="22.5" y="445" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mfzrroewSdykWeL1LME4-114" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
