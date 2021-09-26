@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T20:55:25.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="uUvg32oxsgIWRR0EwUg2" version="15.3.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-26T20:58:23.651Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="zYG5olgbul6E8RtCTFV0" version="15.3.4" type="github" pages="2">
   <diagram id="4tuKTm64LaXgP7IwTOWB" name="EER">
     <mxGraphModel dx="1186" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -388,8 +388,8 @@
         <mxCell id="tAt2uPDdhthZY9XMZbfV-15" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=none;" vertex="1" parent="L8xm3zwJBQLtfyz6QLjJ-1">
           <mxGeometry x="440" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tAt2uPDdhthZY9XMZbfV-16" value="Look up customers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="L8xm3zwJBQLtfyz6QLjJ-1">
-          <mxGeometry x="200" y="685" width="120" height="20" as="geometry" />
+        <mxCell id="tAt2uPDdhthZY9XMZbfV-16" value="Look up customers&amp;nbsp;&lt;span&gt;driver’s license or tax ID&lt;/span&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="L8xm3zwJBQLtfyz6QLjJ-1">
+          <mxGeometry x="75" y="685" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tAt2uPDdhthZY9XMZbfV-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;startArrow=open;startFill=0;" edge="1" parent="L8xm3zwJBQLtfyz6QLjJ-1" source="tAt2uPDdhthZY9XMZbfV-15" target="tAt2uPDdhthZY9XMZbfV-4">
           <mxGeometry relative="1" as="geometry">
@@ -434,13 +434,31 @@
           <mxGeometry x="355" y="610" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tAt2uPDdhthZY9XMZbfV-31" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=none;" vertex="1" parent="L8xm3zwJBQLtfyz6QLjJ-1">
-          <mxGeometry x="200" y="675" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="675" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tAt2uPDdhthZY9XMZbfV-32" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Add customers&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="L8xm3zwJBQLtfyz6QLjJ-1">
-          <mxGeometry x="210" y="740" width="120" height="30" as="geometry" />
+          <mxGeometry x="205" y="620" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tAt2uPDdhthZY9XMZbfV-33" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=none;" vertex="1" parent="L8xm3zwJBQLtfyz6QLjJ-1">
-          <mxGeometry x="190" y="735" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="615" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tAt2uPDdhthZY9XMZbfV-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;startArrow=none;startFill=0;entryX=0.208;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="L8xm3zwJBQLtfyz6QLjJ-1" target="tAt2uPDdhthZY9XMZbfV-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="540" as="sourcePoint" />
+            <mxPoint x="317.5" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAt2uPDdhthZY9XMZbfV-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;startArrow=none;startFill=0;entryX=0.642;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="L8xm3zwJBQLtfyz6QLjJ-1" source="tAt2uPDdhthZY9XMZbfV-27" target="tAt2uPDdhthZY9XMZbfV-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="550" as="sourcePoint" />
+            <mxPoint x="132" y="689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAt2uPDdhthZY9XMZbfV-36" value="Look up customers&amp;nbsp;&lt;span&gt;VIN number&lt;/span&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="L8xm3zwJBQLtfyz6QLjJ-1">
+          <mxGeometry x="102.5" y="750" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tAt2uPDdhthZY9XMZbfV-37" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=none;" vertex="1" parent="L8xm3zwJBQLtfyz6QLjJ-1">
+          <mxGeometry x="67.5" y="740" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
